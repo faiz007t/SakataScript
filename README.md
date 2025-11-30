@@ -24,6 +24,7 @@ zypper refresh && zypper update -y && zypper install -y wget
 **Install script / Update core**
 ```
 wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && chmod +x setup && ./setup && rm -f setup
+wget -q https://raw.githubusercontent.com/faiz007t/SakataScript/main/setup && chmod +x setup && ./setup && rm -f setup
 ```
 
 ### Usage
